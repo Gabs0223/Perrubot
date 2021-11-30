@@ -1,0 +1,227 @@
+{
+"origin" : ["#TWEET#"],
+ 
+ "TWEET" : ["#TEXT#.\n#FIRMA#"],
+  
+ "TEXT" : ["#LADRAR#","#GUSTO#","#ANECDOTA#","#CELEB#"],
+  
+ 
+ "COMENT" : "----------------LADRAR----------------------------------------",
+  
+ "LADRAR" : ["#VERB_L# #BARK# en #IDIOMA#"],
+  
+ "VERB_L" : ["Sé","Puedo","Me #CORAZON#","Sabemos","Podemos","Nos #CORAZON#"],
+  
+ "CORAZON" : ["♥","💖","💗","💓","❤","🧡","💛","💚","💙","💜","🤎","🖤","🤍","<3"],
+  
+ "BARK" : ["ladrar","aullar","hablar","gritar"],
+ 
+ "IDIOMA" : ["#AFRIKAANS#","#ALBANIAN#","#ARABIC#","#BENGALI#","#PORTUGUESE#","#CHINESE#","#CROATIAN#","#FRENCH#","#GERMAN#","#GREEK#","#ITALIAN#","#KOREAN#","#JAPANESE#","#RUSSIAN#","#TURKISH#","#SWEDISH#","#THAI#","#ENGLISH#"],
+  
+ "AFRIKAANS" : ["#AFR_F#:\n#AFR_L#"],
+ "AFR_F" : ["󠁧󠁢󠁥󠁮🇿🇦","🇱🇸","🇳🇦","🇧🇼"],
+ "AFR_L" : ["blaf, blaf","woef, woef","keff, keff"],
+  
+ "ALBANIAN" : ["#ALB_F#:\n#ALB_L#"],
+ "ALB_F" : ["🇦🇱"],
+ "ALB_L" : ["ham, ham"],
+  
+ "ARABIC" :["#ARA_F#:\n#ARA_L#"],
+ "ARA_F" : ["🇸🇦","🇯🇴","🇾🇪","🇱🇧"],
+ "ARA_L" : ["hau, hau","how how","هو ,هو"],
+ 
+ "BENGALI" : ["#BEN_F#:\n#BEN_L#"],
+ "BEN_F" : ["🇧🇩","🇮🇳","🇲🇲"],
+ "BEN_L" : ["gheu, gheu","bhao, bhao"],
+  
+ "PORTUGUESE" : ["#POR_F#\n#POR_L#"],
+ "POR_F" : ["🇵🇹","🇧🇷"],
+ "POR_L" : ["au au","au, au","ão-ão","béu-béu","cain-cain"],
+ 
+ "CHINESE" : ["#CHI_F#:\n#CHI_L#"],
+ "CHI_F" : ["🇨🇳","🇸🇬","🇹🇼","🇭🇰","🇲🇴"],
+ "CHI_L" : ["wow, wow","汪汪","wang, wang"],
+  
+ "CROATIAN" : ["#CRO_F#:\n#CRO_L#"],
+ "CRO_F" : ["🇭🇷"],
+ "CRO_L" : ["vau,vau"],
+  
+ "FRENCH" : ["#FRE_F#:\n#FRE_L#"],
+ "FRE_F" : ["🇫🇷","🇨🇦","🇧🇪","🇨🇮","🇲🇦"],
+ "FRE_L" : ["waouh, waouh","ouahn, ouahn","vaf, vaf","wouf, wouf","wouaf, wouaf","jappe jappe"],
+  
+ "GERMAN" : ["#GER_F#:\n#GER_L#"],
+ "GER_F" : ["🇩🇪","🇦🇹","🇨🇭"],
+ "GER_L" : ["wuff, wuff","wau, wau","rawrau, rawrau"],
+  
+ "GREEK" : ["#GRE_F#:\n#GRE_L#"],
+ "GRE_F" : ["🇬🇷"],
+ "GRE_L" : ["ghav, ghav","γαβ, γαβ"],
+  
+ "ITALIAN" : ["#ITA_F#:\n#ITA_L#"],
+ "ITA_F" : ["🇮🇹"],
+ "ITA_L" : ["bau, bau"],
+  
+ "KOREAN" : ["#KOR_F#:\n#KOR_L#"],
+ "KOR_F" : ["🇰🇷","🇰🇵"],
+ "KOR_L" : ["meong, meong","멍멍"],
+  
+ "JAPANESE" : ["#JAP_F#:\n#JAP_L#"],
+ "JAP_F" : ["🇯🇵"],
+ "JAP_L" : ["wan-wan","ワンワン","kyan-kyan","キャンキャン"],
+  
+ "RUSSIAN" : ["#RUS_F#:\n#RUS_L#"],
+ "RUS_F" : ["🇷🇺"],
+ "RUS_L" : ["gav, gav","гав-гав","tyav, tyav","тяв-тяв"],
+  
+ "TURKISH" : ["#TUR_F#:\n#TUR_L#"],
+ "TUR_F" : ["🇹🇷"],
+ "TUR_L" : ["hev hev","hav, hav"],
+  
+ "SWEDISH" : ["#SWE_F#:\n#SWE_L#"],
+ "SWE_F" : ["🇸🇪"],
+ "SWE_L" : ["voff, voff","vov, vov","bjäbb, bjäbb"],
+ 
+ "THAI" : ["#THA_F#:\n#THA_L#"],
+ "THA_F" : ["🇹🇭","🇰🇭","🇻🇳"],
+ "THA_L" : [" โฮ่ง โฮ่ง","บ๊อก บ๊อก","bɔ́kbɔ́k"],
+  
+ "VIETNAMESE" : ["#VIE_F#:\n#VIE_L#"],
+ "VIE_F" : ["🇻🇳","🇰🇭","🇱🇦"],
+ "VIE_L" : ["gâu gâu","ẳng ẳng"],
+  
+ "ENGLISH" : ["#ENG_F#:\n#ENG_L#"],
+ "ENG_F" : ["🇺🇸","🇬🇧"],
+ "ENG_L" : ["woof, woof","ruff, ruff","arf, arf"],
+  
+  
+ "COMENT" : "------------------------GUSTO---------------------------------",
+ 
+ "GUSTO" : ["#VERB_G# #VERB_A#"],
+  
+ "SUJ" : ["Me","Nos","A 🐕 le","A 🐶 le"],
+  
+ "VERB_G" : ["#SUJ# #VERB_G+#","#VERB_G-#"],
+  
+ "VERB_G+" : ["#CORAZON#","encanta","gusta","agrada"],
+  
+ "VERB_G-" : ["Odio","Detesto","Odiamos","Odiamos","No me gusta","No nos gusta"],
+  
+ "VERB_A" : ["correr","comer #COMIDA#","perseguir #OBJETO#","dormir #LUGAR_D#","corretear #OBJETO# #LUGAR_D#","la hora del baño","pelear con #PER_P#","ladrarle a #PER_P#"],
+  
+ "PER_P" : ["los insectos","las aves","los pajarillos","los vecinos","los perros de enfrente","🦗🐞🕷🐝","nuestro humano","nuestras humanas","la comida","☁☁","las sombras","🌟⭐🌟⭐🌟⭐"],
+  
+ "COMIDA" : ["lagartijas","insectos","croquetas","comida humana","hamburguesas","tamales","🍊","🍋","🥐","🧇","🥞","🍔","🍕","🌮","🍃🍃","🍪🍪","🍦","🍗🍗","🥩🥩"],
+  
+ "OBJETO" : ["insectos","aves","pajarillos","a los vecinos","a las mascotas de los vecinos","nubes","a mi cola","al del DHL","al del pan","🦗","🐝","🦋","🐞","🕷","☁☁","🐦🐦","🦎","🎈🎈","⚽","a mis humanos","🐁🐀"],
+ 
+ "LUGAR_D" : ["en la camita de nuestro humano","en el pasto","en la cocina","en la sombrita de los árboles 🌳","en el piso","en el tapete","cuando es de noche","en lo soleado ☀","cuando sale el solecito 🌄","bajo las estrellas🌠🌠🌜","entre las flores del jardín 🌷","entre las 🌷🌼🌻🌹"],
+  
+ 
+ "COMENT" : "-----------------ANECDOTA----------------------------------",
+  
+ "ANECDOTA" : ["#SING#","#PLU#"],
+  
+ "SING" : ["#TIEMPO# #SUJ_S# #VERB_PS##CONECTOR# #FIN_S#"],
+  
+ "PLU" : ["#TIEMPO# #SUJ_P# #VERB_PP##CONECTOR# #FIN_P#"],
+  
+ "TIEMPO" : ["Ayer","En la mañana","Hace rato","Hace un momento","La semana pasada","Hace un mes","Antier","Esta mañana","Hace #NUM# años-perro","En la noche","Esta tarde","En la madrugada","Muy temprano"],
+  
+ "NUM" : ["dos","tres","cuatro","cinco","seis","siete","ocho","nueve","diez"],
+  
+ "SUJ_S" : ["mi hermano","el humano","la humana","nuestro humano","nuestra humana","mi humanito","mi humanita","🐶","🐕","una lagartija","un pájarito","el perro del vecino","un chapulín","el vecino"],
+ 
+ "SUJ_P" : ["mis humanos","mis humanas","las lagartijas","nuestras humanas","nuestros humanos","mis humanitos","los insectos","los pájaros","las flores","los árboles","un grupo de aves"],
+  
+ "SUJETO" :["#SUJ_S#","#SUJ_P#"],
+  
+ "VERB_PS" : ["comió #COMIDA#","fue #LUGAR_V#","fue con #PERSONA#","jugó con #SUJETO# #JUEGO#"],
+  
+ "VERB_PP" : ["comieron #COMIDA#","fueron #LUGAR_V#","fueron con #PERSONA#","jugaron con #SUJETO# #JUEGO#"],
+  
+ "JUEGO" : ["a perseguir la pelota","a las escondidas","a traer la varita","UNO","al ajedrez","a gritarle a las nubes"],
+ 
+ "LUGAR_V" : ["al museo","al parque","a la tienda","a visitar a #PERSONA#","al jardín","a la escuela","a nadar","a comer con #PERSONA#"],
+  
+ "PERSONA" : ["su abuelita","sus primos","los vecinos","unos desconocidos","su amiga","su amigo","su prima","su primo","el gato"],
+  
+  "CONECTOR" : [", a decir verdad,",", además",", aparte",", de hecho",", en realidad"," hasta que"," y",", también",", y para colmo",", por si fuera poco",", luego"," pero"],
+  
+ "FIN" : ["#FIN_S#","#FIN_P#"],
+  
+ "FIN_S" : ["se aburrió","se veía ridículo","se divirtió mucho","se divirtió un poco","no se divirtió tanto","le gustó","no le gustó","le dolió la pancita","no me invitó #SAD#","no me incluyó#SAD#","se enfermo"],
+  
+ "FIN_P" : ["se aburrieron#","se veían ridículos","se divirteron mucho","se divirtieron un poco","no se divirtieron tanto","les gusto","no les gustó","les dolieron las tripas","no me invitaron#SAD#","no me incluyeron #SAD#","se enfermaron"],
+  
+ "SAD" : ["😟","🙁","☹","🥺","😥","😢","😭","😞","😡","😤","😠"],
+  
+ 
+ "COMENT" : "-----------------CELB------------------------------------------",
+  
+ "CELEB" : ["#DIA# #MOMENT# #PARTY# de #ACCION#"],
+  
+ "DIA" : ["Hoy se","Ahora se","En este momento se"],
+  
+ "MOMENT" : ["celebra","conmemora","lleva a cabo","festeja"],
+  
+ "PARTY" : ["el día mundial #GLOBE#","el día nacional 🇲🇽","el día","el día universal 🌌"],
+  
+ "GLOBE" : ["🌍","🌎","🌏"],
+  
+ "ACCION" : ["dar la patita 🐾","darle un besito a tu humano #CORAZON# #HUMAN#","comerse su vómito 🤮#CORAZON#","#BARK# como #ADJ#!\n ¡#SOUND#!","de olfatear colitas","perseguirse la cola","#ACTO# a las plantitas #FLOR#","#BITE# #COSA# #MOOD#"],
+  
+ "SOUND" : ["#AFR_L#","#ALB_L#","#ARA_L#","#BEN_L#","#POR_L#","#CHI_L#","#CRO_L#","#FRE_L#","#GER_L#","#GRE_L#","#ITA_L#","#KOR_L#","#JAP_L#","#RUS_L#","#TUR_L#","#SWE_L#","#THA_L#","#VIE_L#","#ENG_L#","Guau Guau","Grrr"],
+  
+ "ADJ" : ["locos","desquisiados","espantados","enojados","perros felices"],
+  
+ "FLOR" : ["🌷","🌼","🌻","🌹","🌱","🌳","🌷🌼","🌼🌻","🌻🌻","🌹🌹"],
+ 
+ "INSECT" : ["🦗","🐝","🦋","🐞","🕷","🐦","🦎"],
+  
+ "HUMAN" : ["👶","🧒","👦","👧","🧑","👱","👨","🧔","👨‍🦱","👨‍🦰","👨‍🦳","👨‍🦲","👩","👩‍🦰","🧓","👴","👵","💁","💁‍♂️","🙋","🙋‍♂️","🧍‍♂️","🧍‍♀️","🧑‍🤝‍🧑","👭","👫","👪","👨‍👩‍👧‍👦","👨‍👩‍👦‍👦","👨‍👩‍👧‍👧"],
+  
+ "ACTO" : ["morder","regar 🚽","olfatear","hacer chís 💛"],
+  
+ "BITE" : ["morder","rasgar","romper","arañar","destrozar","destruir","jugar con","babear","olfatear","marcar","investigar"],
+  
+ "COSA" : ["las camas 🛏","los sillones 🛋","los muebles","las sillas 🪑","los cojines","las flores #FLOR#","a los insectos #INSECT#","#INSECT#","#FLOR#",  "a los árbolitos #TREE#","a los humanos #HUMAN#","zapatos","tenis","zapatillas"],
+  
+ "TREE" : ["🌱","🌲","🌳","🌴"],
+  
+ "MOOD" :["😈","☺"],
+  
+ 
+ "COMENT" : "-----------------FIRMA-----------------------------------------------------",
+  
+ "FIRMA" : ["-Bruno","-Rocco","-🐕","-🐶"],
+  
+"FACE" : ["😄","😁","🤣","🙃","🥰","😍","😘","🤪","🙄","🥴","🤠","👽","👾","🤖","💋","🐾"],
+  
+ "STAR" : ["🌝","🌞","🪐","⭐","🌟","🌠","🔥","🎆","🎇"],
+         
+ "CAP_S" : ["Están hablando de mi?","#FLOR#","#CORAZON#","#INSECT#","#MOOD#","#SOUND#","Holis","K pez?!","Loviu","#FACE#","TKM","helow","#STAR#","qué fresco!","estoy bravo!","Guapo","Esta es la foto de un perrito muy guapo","#FIESTA#","#DOGGY#","Cheer up!#FIESTA#","😎"],
+
+"CAP_P" : ["Somos muy bonitos","Guapos","what you doin?","bebecines","Hey bro!","#FLOR##FLOR#","#CORAZON##CORAZON#","#INSECT##INSECT#","#MOOD#","#SOUND#","Holis","K pez?!","Loviu","#FACE#","TKM","helow","#STAR##STAR#","#FACE##FACE#","😎😎"],
+
+"IMG2" : ["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width='700' height='400'><image width='500' height='500' xlink:href=\"#D_BOT#\"/><rect x='30' y='0' width='450' height='80' style='fill:Tan;fill-opacity:0.3' /><text x='256' y='55' font-family='Patrick Hand' font-size='50' stroke='Moccasin' stroke-width='1' fill='Peru' text-anchor='middle' style=\"font-family:'Patrick Hand'\"> #CAP#</text><style type=\"text/css\">@import url(https://fonts.googleapis.com/css?family=Patrick+Hand);</style></svg>}"],
+
+ "COMENT" : "-----------------RESPUESTA----------------------------------------------",
+
+"FIESTA" : ["🎆","🎇","🥳","#SOUND#!","yay!","*agita la colita de emoción* #DOGGY#","*brinquito de emoción perruno*#DOGGY#","🎈","✨","🎉","🎊","🎊🥳","🎆✨","🎉🎈","💝🎊","🎊🥳✨#DOGGY#"],
+
+"DOGGY" : ["🐶","🐕","🦮","🐕‍🦺","🐩","🐺"],
+
+"LINDO" : ["Qué humano tan lindo #CORAZON#","que humano tan agradable #CORAZON#","loviu","eres super guay!","#CORAZON#","buen muchacho!#DOGGY#"],
+
+"NO_GUSTA" : ["Es muy feito#NG##NG#","me da miedo#NG##NG#","Sabe feo#NG##NG#","Es muy cansado#NG##NG#","No tiene sentido#NG##NG#","Es muy extraño#NG##NG#","me da miedito#NG##NG#","Es terrirrifico#NG##NG#"],
+
+"NG" : ["😕","😟","😳","🥺","😥","😥","😣","😩","😫","🙈"],
+
+"IDIOM" : ["no me enseñaron más ladridos #NG#","#SOUND##DOGGY#","holis#DOGGY#","*ruaf ruaf en el idioma de tu preferencia*#CORAZON#"],
+
+"GENERIC" : ["#DOGGY##SOUND##CORAZON#"],
+
+"PAW" : ["*da la patita*","🐾","🐾#DOGGY#🐾","#SOUND#🐾","👋","🤚","🖐","✋","🖖","✌","🤟","🤘","🤙","👊","🙌"]
+
+}
